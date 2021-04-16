@@ -23,7 +23,7 @@ public abstract class BaseActivity<V extends BaseView, P extends BasePresenter> 
      * 活动注入器
      */
     private ActivityComponent mActivityComponent;
-
+//huodong
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
 

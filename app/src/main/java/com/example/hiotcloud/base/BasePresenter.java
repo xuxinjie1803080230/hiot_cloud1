@@ -25,7 +25,9 @@ public class BasePresenter<V extends BaseView> {
         }
     }
 
+
     public boolean viewAttached(){
         return  view != null;
     }
+
 }
